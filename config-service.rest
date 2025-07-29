@@ -1,0 +1,12 @@
+## GET flight-service default configurations
+GET localhost:8888/flight-service/default
+
+###
+
+## GET flight-service development environment configurations
+GET localhost:8888/flight-service/dev
+
+###
+
+## GET flight-service development environment configurations
+GET localhost:8888/flight-service/prod
